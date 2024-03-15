@@ -1,6 +1,6 @@
-package com.bsf.lessons_vtb.lesson_03.exception;
+package com.bsf.lessons_vtb.lesson_03.exception.hw;
 
-public class HW {
+public class HWClass {
     private static int testArray(String[][] arr) throws MyArraySizeException, MyArrayDataException {
         if (arr.length != 4) throw new MyArraySizeException("Размерность массива - " + arr.length  + " вместо " + 4);
         int res = 0;
