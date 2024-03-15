@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc2a5365-8fb9-4969-994d-bd5cab5fc3a1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons-vtb.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bsf/lessons_vtb/lesson_02/Callback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bsf/lessons_vtb/lesson_02/ClientOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bsf/lessons_vtb/lesson_02/ClientTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bsf/lessons_vtb/lesson_02/TestClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bsf/lessons_vtb/lesson_02/fruits/Fruits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bsf/lessons_vtb/lesson_02/innerclass/Outer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bsf/lessons_vtb/lesson_02/innerclass/Test.java" afterDir="false" />
+    <list default="true" id="bc2a5365-8fb9-4969-994d-bd5cab5fc3a1" name="Changes" comment="1">
+      <change afterPath="$PROJECT_DIR$/src/com/bsf/lessons_vtb/lesson_03/exception/MainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +37,26 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.MainClass">
     <configuration name="Fruits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bsf.lessons_vtb.lesson_02.fruits.Fruits" />
       <module name="lessons-vtb" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.bsf.lessons_vtb.lesson_02.fruits.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bsf.lessons_vtb.lesson_03.exception.MainClass" />
+      <module name="lessons-vtb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bsf.lessons_vtb.lesson_03.exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,6 +92,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainClass" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Fruits" />
         <item itemvalue="Application.TestClass" />
@@ -107,7 +109,16 @@
       <updated>1710305869825</updated>
       <workItem from="1710305871530" duration="1483000" />
       <workItem from="1710424831527" duration="5001000" />
+      <workItem from="1710467825687" duration="2828000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1710468142063</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710468142064</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,5 +134,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
 </project>
